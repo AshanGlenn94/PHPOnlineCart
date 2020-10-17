@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main{
+	width:850px;
+	height:900px;
+	background:#800040;
+}
+
+#tmain{
+	width:880px;
+	height:1100px;
+	background:#800040;
+}
+
+.nav{
+	position: absolute;
+	width: 559px;
+	height: 121px;
+	margin-top: 10px;
+	margin-left: 35%;
+	float: left;
+	padding: 4px 43px 30px 0;
+	left: -163px;
+	top: 10px;
+	}
+
+
+	
+
+	
+#navitem{
+	float:right;
+	padding:0 0 0 0;
+	text-decoration:none;
+	list-style-type:none;
+	}
+	
+#navitem li{
+	float:left;
+	padding-left:3px;
+	text-decoration:none;
+	}
+	
+#navitem li a{
+	display:block;
+	font-size:24px;
+	color:#faf3ed;
+	line-height:40px;
+	padding:0 20px;
+	height:44px;
+	letter-spacing:-1px;
+	text-decoration:none;
+	}
+#navitem li a:hover, #navitem .active a{
+	text-decoration:none;
+	background:#666;
+}
+
+.bnr {
+	position: absolute;
+	left: 41px;
+	top: 124px;
+	width: 781px;
+	height: 327px;
+}
+
+.d_h3{
+	position: absolute;
+	text-decoration: none;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+	left: 109px;
+	top: 680px;
+}
+
+.w_h3{
+	position: absolute;
+	text-decoration: none;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+	left: 357px;
+	top: 680px;
+}
+
+.h_h3{
+	position: absolute;
+	text-decoration: none;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+	left: 609px;
+	top: 680px;
+}
+
+.pro_table{
+	position: absolute;
+	width: 869px;
+	height: 900px;
+	background:#FFCEE7;
+	float: left;
+	left: 14px;
+	top: 166px;
+}
+
+.account{
+	position: absolute;
+	width: 739px;
+	height: 347px;
+	background: #FFC1C1;
+	float: left;
+	left: 58px;
+	top: 187px;
+	
+}
